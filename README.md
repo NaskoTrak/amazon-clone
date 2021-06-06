@@ -22,5 +22,8 @@ React application for simulating Amazon-like behavior.
 3. `npm start`
 5. Open browser on `http://localhost:3000/`  
 
+### Preview
+You can open this project at: [https://clone-may21.web.app](https://clone-may21.web.app)
+
 ### Screenshot:
 ![Home screen](https://raw.githubusercontent.com/NaskoTrak/amazon-clone/main/amazon-clone-homepage.png "Home screen")
