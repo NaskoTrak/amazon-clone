@@ -6,7 +6,7 @@ const CartTotal = ({ getTotalPrice, getCount }) => {
 
     return ( 
         <Container>
-            <Subtotal>Total ({getCount()} items):
+            <Subtotal>Total ({getCount()} items): 
                  <NumberFormat value={getTotalPrice()} displayType={'text'} thousandSeparator={true} prefix={'$'} />
             </Subtotal>
             <CheckoutButton>Proceed to Checkout</CheckoutButton>
